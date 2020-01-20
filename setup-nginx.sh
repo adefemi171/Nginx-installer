@@ -109,7 +109,7 @@ then
 			<html>
 			<head>
 			  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>
-			  <title>Virtual Internship Program</title>
+			  <title>Adefemi Micheal Page</title>
 			  
 			</head>
 
@@ -117,7 +117,7 @@ then
 
 			<!-- Feel free to change this text here -->
 			<p>
-			  VENTURE GARDEN GROUP
+			  Testing Nginx from EC2
 			</p>
 			<p>
 			  Made with love...
